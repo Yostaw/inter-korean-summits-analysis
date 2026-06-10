@@ -1,9 +1,27 @@
 # Data Source
 
-The dataset used in this project was provided by the instructor as part of the Digital Korea course at Leiden University.
+This project uses the **Inter-Korean Summit Press Coverage (Chosun Ilbo + Hankyoreh, 2000–2018)** dataset provided through the BA2 Digital Korea course materials.
 
-The corpus consists of 449 newspaper articles from Chosun Ilbo and Hankyoreh covering the 2000, 2007, and 2018 inter-Korean summits.
+## Original Source Repository
 
-For this study, the corpus was filtered to include only articles published in 2018. After filtering, the final dataset consisted of 394 articles, including 201 articles from Chosun Ilbo and 193 articles from Hankyoreh.
+https://github.com/scdenncy/ba2-final-paper-data
 
-Data preprocessing and analysis were conducted using Orange Data Mining.
+## Dataset Location
+
+https://github.com/scdenncy/ba2-final-paper-data/tree/main/datasets/inter_korean_summit
+
+## Dataset Used
+
+`inter_korean_summit_sample.csv`
+
+## Access Date
+
+June 2026
+
+## Description
+
+The dataset contains 451 newspaper articles from *Chosun Ilbo* and *Hankyoreh* covering the 2000, 2007, and 2018 Inter-Korean summits.
+
+This dataset was used for sentiment analysis, TF-IDF keyword extraction, and LDA topic modelling in the paper:
+
+*Framing the 2018 Inter-Korean Summits in South Korean Newspapers: A Comparative Text Analysis of Chosun Ilbo and Hankyoreh.*
